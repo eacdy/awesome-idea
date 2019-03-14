@@ -15,15 +15,6 @@
 | Statistic                      | 代码统计                                                     |
 | Kubernetes                     | 官方出品，帮你快速编写Kubernetes编排文件，例如输入kdep迅速创建Deployment |
 | Docker interation              | 官方出品，整合Docker                                         |
-|                                |                                                              |
-|                                |                                                              |
-|                                |                                                              |
-|                                |                                                              |
-|                                |                                                              |
-|                                |                                                              |
-|                                |                                                              |
-|                                |                                                              |
-|                                |                                                              |
 
 
 
