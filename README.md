@@ -23,7 +23,7 @@ GitHub：<https://github.com/YiiGuxing/TranslationPlugin>
 
 ### 1.2 Maven Helper
 
-作用：分析Maven依赖
+作用：分析Maven依赖，定位依赖冲突等
 
 下载数：379K
 
@@ -117,6 +117,10 @@ GitHub：<https://github.com/zzz40500/GsonFormat>
 
 GitHub：暂无
 
+截图：
+
+![Statistic](https://plugins.jetbrains.com/files/4509/screenshot_16673.png)
+
 
 
 ### 1.10 Kubernetes
@@ -128,6 +132,12 @@ GitHub：暂无
 插件主页：<https://plugins.jetbrains.com/plugin/10485-kubernetes>
 
 GitHub：暂无
+
+截图：
+
+![Kubernetes](https://d3nmt5vlzunoa1.cloudfront.net/idea/files/2018/03/2018-03-02-14_52_26.gif)
+
+![Kubernetes](https://d3nmt5vlzunoa1.cloudfront.net/idea/files/2018/03/KubCompletion-1.gif)
 
 
 
@@ -153,6 +163,10 @@ GitHub：暂无
 
 GitHub：<https://github.com/izhangzhihao/intellij-rainbow-brackets>
 
+截图：
+
+![Rainbow Brackets](https://raw.githubusercontent.com/izhangzhihao/intellij-rainbow-brackets/IC-2017.2/screenshots/with-material-theme-ui.png)
+
 
 
 ### 1.13 String Manipulation
@@ -164,6 +178,50 @@ GitHub：<https://github.com/izhangzhihao/intellij-rainbow-brackets>
 插件主页：<https://plugins.jetbrains.com/plugin/2162-string-manipulation>
 
 GitHub：<https://github.com/krasa/StringManipulation>
+
+
+
+### 1.14 Mybatis Log Plugin
+
+作用：打印出Mybatis执行的SQL，并且直接可执行，便于调试。
+
+下载数：31K
+
+插件主页：<https://plugins.jetbrains.com/plugin/10065-mybatis-log-plugin>
+
+GitHub：<https://github.com/kookob/mybatis-log-plugin/>
+
+截图：
+
+![Mybatis Log Plugin](https://plugins.jetbrains.com/files/10065/screenshot_17367.png)
+
+
+
+### 1.15 LiveEdit
+
+作用：前端修改无需刷新浏览器
+
+下载数：3909K
+
+插件主页：<https://plugins.jetbrains.com/plugin/7007-liveedit>
+
+GitHub：暂无
+
+
+
+### 1.16 Material Theme UI
+
+作用：一款Theme UI的IDEA主题
+
+下载数：3872K
+
+插件主页：https://plugins.jetbrains.com/plugin/8006-material-theme-ui
+
+GitHub：https://github.com/ChrisRM/material-theme-jetbrains
+
+截图：
+
+![Material Theme UI](https://plugins.jetbrains.com/files/8006/screenshot_17526.png)
 
 
 
