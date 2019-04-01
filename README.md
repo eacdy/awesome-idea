@@ -237,6 +237,96 @@ GitHub：暂无
 
 
 
+### 1.18 BashSupport
+
+作用：支持编写Shell，高亮、代码提示、重构
+
+下载数：9652K
+
+插件主页：<https://plugins.jetbrains.com/plugin/4230-bashsupport>
+
+GitHub：<https://github.com/BashSupport/BashSupport>
+
+
+
+### 1.19 CodeGlance
+
+作用：代码缩略图
+
+下载数：722K
+
+插件主页：<https://plugins.jetbrains.com/plugin/7275-codeglance>
+
+GitHub：<https://github.com/Vektah/CodeGlance>
+
+截图：
+
+![](https://plugins.jetbrains.com/files/7275/screenshot_16821.png)
+
+
+
+### 1.20 Grep Console
+
+作用：控制台查询、搜索日志，并且可以配置高亮颜色。
+
+下载数：662K
+
+插件主页：<https://plugins.jetbrains.com/plugin/7125-grep-console>
+
+GitHub：<https://github.com/krasa/GrepConsole>
+
+
+
+### 1.21 Key Promoter X
+
+作用：一个学习IntelliJ IDEA快捷键的插件。
+
+下载数：185K
+
+插件主页：<https://plugins.jetbrains.com/plugin/9792-key-promoter-x>
+
+GitHub：<https://github.com/halirutan/IntelliJ-Key-Promoter-X>
+
+截图：
+
+![](https://plugins.jetbrains.com/files/9792/screenshot_17105.png)
+
+
+
+### 1.22 .ignore
+
+作用：忽略不想提交的文件
+
+下载数：8591K
+
+插件主页：<https://plugins.jetbrains.com/plugin/7495--ignore>
+
+GitHub：<https://github.com/hsz/idea-gitignore>
+
+截图：
+
+![](https://plugins.jetbrains.com/files/7495/screenshot_14958.png)
+
+
+
+### 1.23 IDE Features Trainer
+
+作用：交互式学习IDEA的基本功能与快捷键
+
+下载数：1019K
+
+插件主页：<https://plugins.jetbrains.com/plugin/8554-ide-features-trainer>
+
+GitHub：<https://github.com/JetBrains/ide-features-trainer>
+
+截图：
+
+![](https://plugins.jetbrains.com/files/8554/screenshot_16104.png)
+
+
+
+
+
 ## 二、资源&网站
 
 - [IDEA主题下载](http://www.riaway.com/)
