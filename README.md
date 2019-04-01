@@ -225,6 +225,18 @@ GitHub：https://github.com/ChrisRM/material-theme-jetbrains
 
 
 
+### 1.17 Vue.js
+
+作用：支持Vue.js的开发
+
+下载数：845K
+
+插件主页：<https://plugins.jetbrains.com/plugin/9442-vue-js>
+
+GitHub：暂无
+
+
+
 ## 二、资源&网站
 
 - [IDEA主题下载](http://www.riaway.com/)
