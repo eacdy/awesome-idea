@@ -6,6 +6,7 @@ IntelliJ IDEA资源一网打尽，欢迎投稿！
 1. 补充插件使用说明
 2. 补充插件开发文档
 3. 待规划
+4. 待入选插件：VisualVM Launcher
 
 ## 一、插件
 
